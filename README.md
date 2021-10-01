@@ -2,15 +2,14 @@
 
 This repo was used to learn git from Amigoscode
 
-HotKeyz
+# Outline
+- [Terms](#terms)
 - [iTerm2](#iterm2)
-- IntelliJ
-- git
-- vim
-- tree
-- [Paragraph](#paragraph)
-
-
+- [IntelliJ](#intellij)
+- [git](#git)
+- [vim](#vim)
+- [Unix](#unix)
+- [tree](#tree)
 
 
 # Terms
@@ -32,24 +31,22 @@ HotKeyz
 * incoming change = remote commit 
 
 
-# Hotkeyz
 
 # iTerm2
-cool;
-* cmd+d = new terminal on side;
-* cmd+t = new terminal tab;
-* ctrl+a = front;
-* ctrl+e = end;
-* alt+b = go back;
-* alt+f = go forward;
-* ctrl+w = delete word backwards;
+* cmd+d == new terminal on side
+* cmd+t == new terminal tab
+* ctrl+a == front
+* ctrl+e == end
+* alt+b == go back
+* alt+f == go forward
+* ctrl+w == delete word backwards
 
-**IntelliJ HOTKEYZ**
+# IntelliJ
 * cmd+option+v = extract to variable
 * shift+F6 = rename
 * cmd+option+L = format code 
 
-**GIT HOTKEYZ**
+# GIT
 * git log --oneline -5
 * git checkout <myfile name> = discard changes 
 * git branch -a
@@ -65,7 +62,7 @@ cool;
 	* git rebase --continue
 	* git push -f   (only do -f if needed)
 
-**VIM**
+# VIM
 * :q! = quit without saving
 * :wq = write quit
 * i=insert mode
@@ -98,7 +95,7 @@ h    l
    j = jump down
 
 
-**UNIX**
+# UNIX
 * curl -0 <https://raw.githubusercontent.com/amigoscode/.../classes.js>
 * grep  -rni <”#end”> . = search for #end, display row number and search is case-insensitive
 * man find = manual for find
@@ -119,13 +116,8 @@ h    l
 * cd ~ 		= 		go to root
 * rm -r 		= remove folder and subfolders
 
-**TREE HOTKEYZ**
+# TREE
 * tree <example> = see folder structure
 * less <test.js> = paginate through with space
 * head <test.js> = see the beginning of file
 * tail <test.js> = see tail of file
-	
-# Paragraph
-Lorem ip
-	
-
