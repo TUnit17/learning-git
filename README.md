@@ -106,8 +106,8 @@ h    l
 * cp <query-1.sql> <query-copy.sql> = make a copy of a file called query-copy.sql
 * cp -r <tutorial> <tutorials-copy> = make a copy of a directory, recursively
 * cp <*.sql> = copy everything with 
-* echo “overwrite something” > query-1.sql = overwrite file
-* echo “append something” >> query-1.sql = append to file
+* echo “overwrite something” > query-1.sql = overwrite file // note: > 
+* echo “append something” >> query-1.sql = append to file // note: >> 
 * cat index.js = view contents of file
 * mv <main.go> <tutorials> = move file into folder
 * mv <tutorials/main.go> . = move file up one level
