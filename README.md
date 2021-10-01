@@ -121,3 +121,8 @@ h    l
 * less <test.js> = paginate through with space
 * head <test.js> = see the beginning of file
 * tail <test.js> = see tail of file
+	
+
+# Linkz
+* https://amigoscode.com/courses/1317178/lectures/30664230
+* https://github.com/fefong/markdown_readme/blob/master/README.md#titles
