@@ -3,13 +3,17 @@
 This repo was used to learn git from Amigoscode
 
 HotKeyz
-- [ ] iTerm2
-- [ ] IntelliJ
-- [ ] git
-- [ ] vim
-- [ ] tree
+- [iTerm2](#iterm2)
+- IntelliJ
+- git
+- vim
+- tree
+- [Paragraph](#paragraph)
 
 
+
+
+# Terms
 **Pull request**
 * make a change on feature branch
 * create pull request in Github
@@ -30,14 +34,15 @@ HotKeyz
 
 # Hotkeyz
 
-**iTerm2**
-* cmd+d = new terminal on side
-* cmd+t = new terminal tab
-* ctrl+a = front
-* ctrl+e = end
-* alt+b = go back
-* alt+f = go forward
-* ctrl+w = delete word backwards
+# iTerm2
+cool;
+* cmd+d = new terminal on side;
+* cmd+t = new terminal tab;
+* ctrl+a = front;
+* ctrl+e = end;
+* alt+b = go back;
+* alt+f = go forward;
+* ctrl+w = delete word backwards;
 
 **IntelliJ HOTKEYZ**
 * cmd+option+v = extract to variable
@@ -119,3 +124,8 @@ h    l
 * less <test.js> = paginate through with space
 * head <test.js> = see the beginning of file
 * tail <test.js> = see tail of file
+	
+# Paragraph
+Lorem ip
+	
+
