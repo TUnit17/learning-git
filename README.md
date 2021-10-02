@@ -99,22 +99,22 @@ h    l
 * curl -0 <https://raw.githubusercontent.com/amigoscode/.../classes.js>
 * grep  -rni <”#end”> . = search for #end, display row number and search is case-insensitive
 * man find = manual for find
-* find . -name <query-1.sql> = find a file named query-1.sql 
-* find . -iname <“main*”> = find all files with name case insensitive
-* find . -iname <“*.css”> = find a file with name  .css case insensitive
-* find . -name <“MAIN*”> -delete = find and delete (files and folders) that meet condition
-* cp <query-1.sql> <query-copy.sql> = make a copy of a file called query-copy.sql
-* cp -r <tutorial> <tutorials-copy> = make a copy of a directory, recursively
+* find . -name <query-1.sql> == find a file named query-1.sql 
+* find . -iname <“main*”> == find all files with name case insensitive
+* find . -iname <“*.css”> == find a file with name  .css case insensitive
+* find . -name <“MAIN*”> -delete == find and delete (files and folders) that meet condition
+* cp <query-1.sql> <query-copy.sql> == make a copy of a file called query-copy.sql
+* cp -r <tutorial> <tutorials-copy> == make a copy of a directory, recursively
 * cp <*.sql> = copy everything with 
-* echo “overwrite something” > query-1.sql = overwrite file // note: > 
-* echo “append something” >> query-1.sql = append to file // note: >> 
+* echo “overwrite something” > query-1.sql == overwrite file // note: > 
+* echo “append something” >> query-1.sql == append to file // note: >> 
 * cat index.js = view contents of file
-* mv <main.go> <tutorials> = move file into folder
-* mv <tutorials/main.go> . = move file up one level
-* mv tutorials examples = rename a folder
-* touch query.sql = create a file 
-* cd ~ 		= 		go to root
-* rm -r 		= remove folder and subfolders
+* mv <main.go> <tutorials> == move file into folder
+* mv <tutorials/main.go> . == move file up one level
+* mv tutorials examples == rename a folder
+* touch query.sql == create a file 
+* cd ~	== go to root
+* rm -r == remove folder and subfolders
 
 # TREE
 * tree <example> = see folder structure
