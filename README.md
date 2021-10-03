@@ -53,7 +53,8 @@ This repo was used to learn git from Amigoscode
 * git remote -v
 * git amend -m <“my newly amended message”>
 * git checkout -b <my_new_branch> = create a new branch and change to it
-* git push -u origin <new_branch_name> = push new branch to github
+* git push -u origin <new_branch_name> == push new branch to github
+* git push origin main -f == overwrite origin	
 * git branch -d <my_local_branch> = delete local branch
 * git show
 * git rebase -i HEAD~3 = squash
