@@ -45,7 +45,8 @@ This repo was used to learn git from Amigoscode
 * cmd+option+v == extract to variable
 * shift+F6 == rename
 * cmd+option+L == format code
-* shift+ctrl+space == autocomplete options 
+* shift+ctrl+space == autocomplete options
+* ctrl+enter == autocomplete Constructor 
 
 # GIT
 * git log --oneline -5
