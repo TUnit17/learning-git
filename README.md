@@ -48,6 +48,9 @@ This repo was used to learn git from Amigoscode
 * shift+ctrl+space == autocomplete options
 * ctrl+enter == autocomplete Constructor 
 * cmd+shift+[ == go left one tab
+* alt+enter == put code on separate lines 
+* cmd+p == show parameters
+* shift+f6 == rename file
 
 # GIT
 * git log --oneline -5
