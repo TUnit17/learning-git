@@ -42,10 +42,10 @@ This repo was used to learn git from Amigoscode
 * ctrl+w == delete word backwards
 
 # IntelliJ
-* cmd+option+v = extract to variable
-* shift+F6 = rename
-* cmd+option+L = format code
-* shift+ctrl+space = autocomplete options 
+* cmd+option+v == extract to variable
+* shift+F6 == rename
+* cmd+option+L == format code
+* shift+ctrl+space == autocomplete options 
 
 # GIT
 * git log --oneline -5
