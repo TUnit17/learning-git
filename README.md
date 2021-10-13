@@ -44,7 +44,8 @@ This repo was used to learn git from Amigoscode
 # IntelliJ
 * cmd+option+v = extract to variable
 * shift+F6 = rename
-* cmd+option+L = format code 
+* cmd+option+L = format code
+* shift+ctrl+space = autocomplete options 
 
 # GIT
 * git log --oneline -5
