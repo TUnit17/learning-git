@@ -47,6 +47,7 @@ This repo was used to learn git from Amigoscode
 * cmd+option+L == format code
 * shift+ctrl+space == autocomplete options
 * ctrl+enter == autocomplete Constructor 
+* cmd+shift+[ == go left one tab
 
 # GIT
 * git log --oneline -5
