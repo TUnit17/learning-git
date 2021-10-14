@@ -50,7 +50,8 @@ This repo was used to learn git from Amigoscode
 * cmd+shift+[ == go left one tab
 * alt+enter == put code on separate lines 
 * cmd+p == show parameters
-* shift+f6 == rename file
+* shift+f6 == rename file or variable
+* ctrl+g == vertical select same word?
 
 # GIT
 * git log --oneline -5
